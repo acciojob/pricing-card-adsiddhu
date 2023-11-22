@@ -2,9 +2,16 @@
 
 .card{
 	width:500px;
-/* 	margin:auto; */
+	border: 2px solid darkmagenta;
+	margin:auto;
 	border-radius: 15px;
 	align-item:center;
+	box-shadow: rgb(214, 151, 24);
+
+}
+img{
+	align-item:justify;
+	margin:50px 100px;
 }
 
 h1,p{
@@ -13,7 +20,8 @@ h1,p{
 
 button{
 	padding:15px;
-	background-color:orange;
+	margin:20px 200px;
+	background-color:orangered;
 	color:white;
-	border-radius: 15px:
+	border-radius: 15px:	
 }
